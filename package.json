@@ -1,0 +1,26 @@
+{
+  "name": "spectron-window",
+  "version": "0.0.1",
+  "description": "Easily to test multiwindow application.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "keywords": [
+    "spectron",
+    "electron",
+    "window"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smildlzj/spectron-window"
+  },
+  "author": "luzhujun",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1"
+  }
+}
